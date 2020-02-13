@@ -1,7 +1,8 @@
-package ru.mrkovalev.projecttemplate
+package ru.mrkovalev.projecttemplate.app.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import ru.mrkovalev.projecttemplate.R
 
 class MainActivity : AppCompatActivity() {
 
