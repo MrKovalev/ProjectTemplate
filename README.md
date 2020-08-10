@@ -1,9 +1,8 @@
-# ProjectTemplate
-Заготовка для реализации новых приложений:
-1. Настроен репозиторий и .gitignore
-2. Настроено окружение gradle
-3. Выделана базовая структура проекта (разбивка пакетов по принципу мультимодульности, слои Clean Architecture в рамках пакета)
-4. Подключены базовые зависимости
-5. Реализован базовый презентационный слой на MVVM
-6. Реализован подход Single Activity
-7. Добавлена базовая бизнес-логика Hello World
+# Preparation for the implementation of new applications:
+1. Configured repository and .gitignore
+2. Configured gradle environment
+3. Highlighted the basic structure of the project (breakdown of packages according to the principle of multimodularity, Clean Architecture layers within the package)
+4. Basic dependencies are connected
+5. Implemented a basic presentation layer on MVVM
+6. Implemented the Single Activity approach
+7. Added basic business logic Hello World
